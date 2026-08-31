@@ -116,18 +116,6 @@ I also led a 5-engineer Agile team, ran code reviews and technical interviews, a
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hdwije/hireiq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hdwije&repo=hireiq&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/hdwije/hdwije/output/snake.svg" alt="Snake animation" />
