@@ -85,15 +85,13 @@ const hemantha = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hdwije/hdwije/main/metrics.svg" width="90%" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=hdwije&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/hdwije/hdwije/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/hdwije/hdwije/main/metrics.svg" width="90%" />
+
+<br/><br/>
 
 </div>
 
