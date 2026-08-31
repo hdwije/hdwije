@@ -85,16 +85,11 @@ const hemantha = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hdwije&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdwije&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE" />
+<img src="https://raw.githubusercontent.com/hdwije/hdwije/main/metrics.svg" width="90%" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=hdwije&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" />
-
-<br/><br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=hdwije&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=38BDAE" />
 
 <br/><br/>
 
