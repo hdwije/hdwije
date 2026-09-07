@@ -89,10 +89,6 @@ const hemantha = {
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/hdwije/hdwije/main/metrics.svg" width="90%" />
-
-<br/><br/>
-
 </div>
 
 ---
