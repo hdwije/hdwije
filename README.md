@@ -112,10 +112,6 @@ I also led a 5-engineer Agile team, ran code reviews and technical interviews, a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hdwije/hdwije/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br/>
-
 *Thanks for stopping by. Let's build something.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
